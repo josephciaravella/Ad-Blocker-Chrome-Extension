@@ -5,6 +5,7 @@
   
 defaultFilters = [
     "*://*.doubleclick.net/*",
+    "*://googleadservices.com/*",
     "*://partner.googleadservices.com/*",
     "*://*.googlesyndication.com/*",
     "*://*.google-analytics.com/*",
