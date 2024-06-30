@@ -1,6 +1,6 @@
 {
     "name" : "General AdBlocker",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "manifest_version" : 3,
     "description" : "My attempt at making a general adblocker for personal use",
     "permissions" : ["declarativeNetRequest"],
