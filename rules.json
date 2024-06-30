@@ -112,84 +112,84 @@
     },
 
     {
-        "id" : 16,
+        "id" : 17,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.hitapps.com/*" }
     },
 
     {
-        "id" : 17,
+        "id" : 18,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.astrad.io/*" }
     },
 
     {
-        "id" : 18,
+        "id" : 19,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.openx.net/*" }
     },
 
     {
-        "id" : 19,
+        "id" : 20,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.servedbyopenx.com/*" }
     },
 
     {
-        "id" : 20,
+        "id" : 21,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.broadstreetads.com/*" }
     },
 
     {
-        "id" : 21,
+        "id" : 22,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.rubiconproject.com/*" }
     },
 
     {
-        "id" : 22,
+        "id" : 23,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.magnite.com/*" }
     },
 
     {
-        "id" : 23,
+        "id" : 24,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.adbutler.com/*" }
     },
 
     {
-        "id" : 24,
+        "id" : 25,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.smartadserver.com/*" }
     },
 
     {
-        "id" : 25,
+        "id" : 26,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.equativ.com/*" }
     },
 
     {
-        "id" : 26,
+        "id" : 27,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.epom.com/*" }
     },
 
     {
-        "id" : 27,
+        "id" : 28,
         "priority" : 1,
         "action" : { "type" : "block" },
         "condition" : { "urlFilter" : "*://*.epommarket.com/*" }
